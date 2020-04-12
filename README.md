@@ -10,6 +10,10 @@
 
 ## 公告栏
 
-**2020-04-10 任务一**：
+**2020-04-10 任务一：**
 
 [写出所有垂直居中布局的方式。](https://github.com/Mopecat/Daily-Mission-Board/issues/1)
+
+**2020-04-12 任务二：**
+
+[写出 `bind` 方法的 polify.](https://github.com/Mopecat/Daily-Mission-Board/issues/2)
