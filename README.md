@@ -24,7 +24,7 @@
 
 **2020-04-14 任务四：**
 
-[任务四：简述 eventloop.](https://github.com/Mopecat/Daily-Mission-Board/issues/4)
+[简述 eventloop.](https://github.com/Mopecat/Daily-Mission-Board/issues/4)
 
 **2020-04-14 任务五：**
 
