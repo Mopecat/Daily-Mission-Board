@@ -21,3 +21,7 @@
 **2020-04-13 任务三：**
 
 [简述 BFC 与其作用.](https://github.com/Mopecat/Daily-Mission-Board/issues/3)
+
+**2020-04-14 任务五：**
+
+[写出所有页面上能存储数据的地方.](https://github.com/Mopecat/Daily-Mission-Board/issues/5)
