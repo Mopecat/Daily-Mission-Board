@@ -29,3 +29,7 @@
 **2020-04-14 任务五：**
 
 [写出所有页面上能存储数据的地方.](https://github.com/Mopecat/Daily-Mission-Board/issues/5)
+
+**2020-04-15 任务六：**
+
+[Javascript 的类型转换机制.](https://github.com/Mopecat/Daily-Mission-Board/issues/7)
