@@ -33,3 +33,7 @@
 **2020-04-15 任务六：**
 
 [Javascript 的类型转换机制.](https://github.com/Mopecat/Daily-Mission-Board/issues/7)
+
+**2020-04-17 任务七：**
+
+[Vue 3.0 beta 尝鲜](https://github.com/Mopecat/Daily-Mission-Board/issues/8)
