@@ -37,3 +37,7 @@
 **2020-04-17 任务七：**
 
 [Vue 3.0 beta 尝鲜](https://github.com/Mopecat/Daily-Mission-Board/issues/8)
+
+**2020-04-20 任务八：**
+
+[左侧固定右侧自适应](https://github.com/Mopecat/Daily-Mission-Board/issues/9)
