@@ -40,4 +40,4 @@
 
 **2020-04-20 任务八：**
 
-[左侧固定右侧自适应](https://github.com/Mopecat/Daily-Mission-Board/issues/9)
+[左侧固定右侧自适应的布局](https://github.com/Mopecat/Daily-Mission-Board/issues/9)
