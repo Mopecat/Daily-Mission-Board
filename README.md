@@ -41,3 +41,7 @@
 **2020-04-20 任务八：**
 
 [左侧固定右侧自适应的布局](https://github.com/Mopecat/Daily-Mission-Board/issues/9)
+
+**2020-04-26 任务九：**
+
+[使用一遍数组的所有方法](https://github.com/Mopecat/Daily-Mission-Board/issues/10)
