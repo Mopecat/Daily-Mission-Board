@@ -45,3 +45,7 @@
 **2020-04-26 任务九：**
 
 [使用一遍数组的所有方法](https://github.com/Mopecat/Daily-Mission-Board/issues/10)
+
+**2020-04-28 任务十：**
+
+[实践 `position` 四方向值的四象限使用方法](https://github.com/Mopecat/Daily-Mission-Board/issues/11)
