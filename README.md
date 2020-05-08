@@ -49,3 +49,8 @@
 **2020-04-28 任务十：**
 
 [实践 `position` 四方向值的四象限使用方法](https://github.com/Mopecat/Daily-Mission-Board/issues/11)
+
+
+**2020-05-06 任务十一：**
+
+[使用Map、WeakMap、Set、WeakSet并总结 ](https://github.com/Mopecat/Daily-Mission-Board/issues/12)
