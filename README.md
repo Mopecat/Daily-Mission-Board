@@ -10,10 +10,13 @@
 
 ## 公告栏
 
+**2020-05-06 任务十二：**
+
+[ Tree-Shaking ](https://github.com/Mopecat/Daily-Mission-Board/issues/15)
 
 **2020-05-06 任务十一：**
 
-[使用Map、WeakMap、Set、WeakSet并总结 ](https://github.com/Mopecat/Daily-Mission-Board/issues/12)
+[使用 Map、WeakMap、Set、WeakSet 并总结 ](https://github.com/Mopecat/Daily-Mission-Board/issues/12)
 
 **2020-04-28 任务十：**
 
