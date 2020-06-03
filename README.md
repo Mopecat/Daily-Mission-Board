@@ -10,7 +10,7 @@
 
 ## 公告栏
 
-**2020-05-06 任务十二：**
+**2020-05-20 任务十二：**
 
 [ Tree-Shaking 实践 ](https://github.com/Mopecat/Daily-Mission-Board/issues/15)
 
