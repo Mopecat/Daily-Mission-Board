@@ -10,6 +10,10 @@
 
 ## 公告栏
 
+**2020-07-17 任务十三：**
+
+[ 简述下你对执行上下文的理解 ](https://github.com/Mopecat/Daily-Mission-Board/issues/16)
+
 **2020-05-20 任务十二：**
 
 [ Tree-Shaking 实践 ](https://github.com/Mopecat/Daily-Mission-Board/issues/15)
