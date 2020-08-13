@@ -9,6 +9,9 @@
 **注意：多敲代码，少 BB**
 
 ## 公告栏
+**2020-08-13 任务十五：**
+
+[ 请用css实现一个半个椭圆形 ](https://github.com/Mopecat/Daily-Mission-Board/issues/18)
 
 **2020-07-17 任务十四：**
 
