@@ -9,6 +9,11 @@
 **注意：多敲代码，少 BB**
 
 ## 公告栏
+
+**2020-09-21 任务十六：**
+
+[ `window.onerror` 和 `window.addEventListener('error')`的区别是什么？ ](https://github.com/Mopecat/Daily-Mission-Board/issues/19)
+
 **2020-08-13 任务十五：**
 
 [ 请用css实现一个半个椭圆形 ](https://github.com/Mopecat/Daily-Mission-Board/issues/18)
