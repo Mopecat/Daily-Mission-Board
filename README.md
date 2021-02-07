@@ -10,17 +10,21 @@
 
 ## 公告栏
 
+**2020-09-21 任务十七：**
+
+[ 实现 ES2020 中 Promise.allSettled ](https://github.com/Mopecat/Daily-Mission-Board/issues/21)
+
 **2020-09-21 任务十六：**
 
 [ `window.onerror` 和 `window.addEventListener('error')`的区别是什么？ ](https://github.com/Mopecat/Daily-Mission-Board/issues/19)
 
 **2020-08-13 任务十五：**
 
-[ 请用css实现一个半个椭圆形 ](https://github.com/Mopecat/Daily-Mission-Board/issues/18)
+[ 请用 css 实现一个半个椭圆形 ](https://github.com/Mopecat/Daily-Mission-Board/issues/18)
 
 **2020-07-17 任务十四：**
 
-[ 手动实现一个reduce ](https://github.com/Mopecat/Daily-Mission-Board/issues/17)
+[ 手动实现一个 reduce ](https://github.com/Mopecat/Daily-Mission-Board/issues/17)
 
 **2020-07-17 任务十三：**
 
