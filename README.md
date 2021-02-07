@@ -10,7 +10,7 @@
 
 ## 公告栏
 
-**2020-09-21 任务十七：**
+**2021-02-07 任务十七：**
 
 [ 实现 ES2020 中 Promise.allSettled ](https://github.com/Mopecat/Daily-Mission-Board/issues/21)
 
